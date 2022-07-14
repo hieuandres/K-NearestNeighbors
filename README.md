@@ -7,7 +7,7 @@
 ## 2.Implementation of KNN from scratch
 ### Step 1: Compute the Euclidean distance between the test data point and all the training data .
 ### Step 2: Sort the calculated distances in ascending order .
-### Step 3: 1Get the k nearest neighbors by taking top k rows from sorted array
+### Step 3: Get the k nearest neighbors by taking top k rows from sorted array
 ### Step 4: Find the majority class of these rows .
 ### Step 5: Return predicted class.
 ### Step 6: Finding accuracy score to make sure the prediction is correct or not.
